@@ -1,0 +1,32 @@
+[submodule "ICD.Common.Logging"]
+	path = ICD.Common.Logging
+	url = https://github.com/ICDSystems/ICD.Common.Logging.git
+	branch = master
+[submodule "ICD.Common.Permissions"]
+	path = ICD.Common.Permissions
+	url = https://github.com/ICDSystems/ICD.Common.Permissions.git
+	branch = master
+[submodule "ICD.Common.Utils"]
+	path = ICD.Common.Utils
+	url = https://github.com/ICDSystems/ICD.Common.Utils.git
+	branch = master
+[submodule "ICD.Connect.API"]
+	path = ICD.Connect.API
+	url = https://github.com/ICDSystems/ICD.Connect.API.git
+	branch = master
+[submodule "ICD.Connect.Devices"]
+	path = ICD.Connect.Devices
+	url = https://github.com/ICDSystems/ICD.Connect.Devices.git
+	branch = master
+[submodule "ICD.Connect.Protocol"]
+	path = ICD.Connect.Protocol
+	url = https://github.com/ICDSystems/ICD.Connect.Protocol.git
+	branch = master
+[submodule "ICD.Connect.Settings"]
+	path = ICD.Connect.Settings
+	url = https://github.com/ICDSystems/ICD.Connect.Settings.git
+	branch = master
+[submodule "ICD.Connect.Telemetry"]
+	path = ICD.Connect.Telemetry
+	url = https://github.com/ICDSystems/ICD.Connect.Telemetry.git
+	branch = master
