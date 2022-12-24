@@ -1,0 +1,9 @@
+*.um2
+SPlsWork/
+*.lpz
+*.sig
+*.sm2
+*.clz
+*.zip
+*.ASV
+!XP3-Minimal-Demo_archive.zip
